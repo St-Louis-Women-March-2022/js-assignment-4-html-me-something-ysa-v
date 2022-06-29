@@ -1,1 +1,61 @@
 /* Write your CSS here! */
+body {
+    font-family: avenir book;
+    margin: 8px;
+    display: block;
+}
+
+main {
+    background-color: 
+    padding: 8px;
+    margin: 8px;
+}
+
+p {
+    padding: 8px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+}
+
+figure {
+    padding: 12px;
+    background-color: white;
+    border:red;
+    border-style:dashed;
+    border-radius: 10px;
+    border-width: 2px;
+}
+
+figcaption {
+    text-align: center;
+    font-style: italic;
+    font-size: 9pt;
+}
+
+#mainHeading {
+    text-align: center;
+    color: red;
+    border-left: 4px solid red;
+    border-right: 4px solid red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+h2 {
+    font-size: 1.8em;
+    text-align: center;
+    padding: 8px;
+    background-color: auto;
+}
+
+header, footer {
+    text-align: center;
+    font-size: 8pt;
+}
